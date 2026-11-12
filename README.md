@@ -1,2 +1,2 @@
 # 2026A_flowerInsects
-Group Porject
+Group Project
